@@ -4,11 +4,17 @@
 
 **Persian AI systems for finance, operations and customer service.**
 
-[zharf.ai](https://zharf.ai) · [zharfban.com](https://zharfban.com) · [Telegram](https://t.me/zharfai) · [X](https://x.com/zharfai)
+[zharf.ai](https://zharf.ai) · [zharfban.com](https://zharfban.com) · [zharfahan.com](https://zharfahan.com) · [Telegram](https://t.me/zharfai) · [X](https://x.com/zharfai)
 
 </div>
 
 ## What we build
+
+**Zharfahan · ژرف‌آهن**
+A steel price reference for the Iranian market: live prices from every major mill, a complete daily
+archive rather than only today's number, an assistant that answers from that data with the figure
+and its date attached, and an export layer for Iraq, Afghanistan, Turkey and the GCC in four
+languages. [zharfahan.com](https://zharfahan.com)
 
 **Zharfban · ژرف‌بان**
 Accounting and operations in one web platform for companies that keep their books in Persian.
